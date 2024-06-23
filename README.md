@@ -1,3 +1,5 @@
+## Yeah~ Hi, there~~ 
+
 - 👋 Hi, I’m @gurwoghd
 - 👀 I’m interested in react and nestjs.
 - 🌱 I’m currently learning nestjs, react, javascript, and typescript.
@@ -9,3 +11,6 @@ gurwoghd/gurwoghd is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 ## My blog is just-computer.tistory.com
+
+### My Tech Stack
+https://img.shields.io/badge/HTML5
