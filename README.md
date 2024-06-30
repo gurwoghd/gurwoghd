@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m @gurwoghd
 - 👀 I’m interested in Backend development using nestjs and spring, both.
-- 🌱 I’m currently learning nestjs, react, Java, and Spring.
+- 🌱 I’m currently learning nestjs, react, and Spring.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
