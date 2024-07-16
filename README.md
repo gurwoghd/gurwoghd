@@ -23,4 +23,3 @@ You can click the Preview link to take a look at your changes.
 ![React](https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=f5f5f5)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=PostgreSQL&logoColor=f5f5f5)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=f5f5f5)
-Java
