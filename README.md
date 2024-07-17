@@ -3,8 +3,8 @@
 ![image](https://github.com/gurwoghd/gurwoghd/assets/58104943/21089a54-cf4c-4ffb-b6e9-8173d6851e9e)
 
 - 👋 Hi, I’m @gurwoghd
-- 👀 I’m interested in Backend development using nestjs and spring, both.
-- 🌱 I’m currently learning nestjs, react, and Spring.
+- 👀 I’m interested in Backend development using nestjs.
+- 🌱 I’m currently learning nestjs, react.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
