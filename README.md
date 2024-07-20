@@ -4,24 +4,23 @@
 
 ![image](https://github.com/gurwoghd/gurwoghd/assets/58104943/21089a54-cf4c-4ffb-b6e9-8173d6851e9e)
 
-My blogs
-- https://velog.io/@gilchi1234
-
 ![gurwoghd's GitHub stats](https://github-readme-stats.vercel.app/api?username=gurwoghd&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gurwoghd&layout=compact)
 
 
 # My Tech Stack
 ## FrontEnd
-![html5](https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=f5f5f5)
-![CSS3](https://img.shields.io/badge/css3-1572B6?logo=CSS3&logoColor=f5f5f5)
-![React](https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=f5f5f5)
+<span><img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=f5f5f5&style=flat-square" width="100px" height="30px">
+<img alt="CSS3" src="https://img.shields.io/badge/css3-1572B6?logo=CSS3&logoColor=f5f5f5&style=flat-square" width="100px" height="30px">
+<img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=f5f5f5&style=flat-square" width="100px" height="30px"></span>
 
 ## BackEnd
-![NESTJS](https://img.shields.io/badge/NestJS-E0234E?logo=NestJs&logoColor=f5f5f5)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=PostgreSQL&logoColor=f5f5f5)
+<span>
+<img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?logo=NestJs&logoColor=f5f5f5&style=flat-square" width="100px" height="30px">
+<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=PostgreSQL&logoColor=f5f5f5&style=flat-square" width="100px" height="30px">
+</span>
 
 ## Work
-![Git](https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=f5f5f5)
-![Slack](https://img.shields.io/badge/Slack-4A154B?logo=Slack&logoColor=f5f5f5)
-
-
+<span>
+<img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=f5f5f5&style=flat-square" width="100px" height="30px">
+<img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?logo=Slack&logoColor=f5f5f5&style=flat-square" width=100px" height="30px">
+</span>
