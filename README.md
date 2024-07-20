@@ -11,13 +11,13 @@ My blogs
 
 
 # My Tech Stack
-## Web 
+## FrontEnd
 ![html5](https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=f5f5f5)
 ![CSS3](https://img.shields.io/badge/css3-1572B6?logo=CSS3&logoColor=f5f5f5)
-![NESTJS](https://img.shields.io/badge/NestJS-E0234E?logo=NestJs&logoColor=f5f5f5)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=f5f5f5)
 
-## Database
+## BackEnd
+![NESTJS](https://img.shields.io/badge/NestJS-E0234E?logo=NestJs&logoColor=f5f5f5)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=PostgreSQL&logoColor=f5f5f5)
 
 ## Work
