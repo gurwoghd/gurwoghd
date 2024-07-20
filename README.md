@@ -22,6 +22,6 @@ My blogs
 
 ## Work
 ![Git](https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=f5f5f5)
-![Slack](https://img.shields.io/badge/Slack-4A154B?logo=Slack&logoColor=4A154B)
+![Slack](https://img.shields.io/badge/Slack-F05032?logo=Slack&logoColor=4A154B)
 
 
