@@ -34,3 +34,6 @@
 <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=f5f5f5&style=flat-square" width="100px" height="30px">
 <img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?logo=Slack&logoColor=f5f5f5&style=flat-square" width=100px" height="30px">
 </span>
+
+# Experience
+- Backend Developer at GIST Infoteam (2024~)
