@@ -20,6 +20,7 @@
   <img alt="Prisma" src="https://img.shields.io/badge/Prisma-2D3748?logo=Prisma&logoColor=f5f5f5&style=flat-square" width="100px" height="30px">
   <img alt="Javascript" src="https://img.shields.io/badge/Javascript-F7DF1E?logo=Javascript&logoColor=f5f5f5&style=flat-square" width="100px" height="30px">
   <img alt="Typescript" src="https://img.shields.io/badge/Typescript-3178C6?logo=Typescript&logoColor=f5f5f5&style=flat-square" width="100px" height="30px">
+  <img alt="TypeORM" src="https://img.shields.io/badge/TypeORM-FE0803?logo=TypeORM&logoColor=f5f5f5&style=flat-square" width="100px" height="30px">
 </span>
 
 ## Data
