@@ -16,11 +16,6 @@
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=f5f5f5&style=flat-square" width="100px" height="30px">
 </span>
 
-## FrontEnd
-<span>
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=f5f5f5&style=flat-square" width="100px" height="30px">
-</span>
-
 ## BackEnd
 <span>
   <img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?logo=NestJs&logoColor=f5f5f5&style=flat-square" width="100px" height="30px">
